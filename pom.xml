@@ -5,11 +5,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>service-discovery-server</groupId>
-	<artifactId>micro-service-1</artifactId>
+	<artifactId>cloud-config-client</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>micro-service-1</name>
+	<name>cloud-config-client</name>
 	<description>Demo project for Spring Boot</description>
 
 	<parent>
